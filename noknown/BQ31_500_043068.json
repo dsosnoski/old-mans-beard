@@ -1,0 +1,74 @@
+{
+  "version": "4.6.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          1130.0,
+          25.0
+        ],
+        [
+          3199,
+          4779
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          5.0,
+          2160.0
+        ],
+        [
+          1138,
+          4799
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          1120.0,
+          2140.0
+        ],
+        [
+          720.0,
+          1560.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          440.0,
+          695.0
+        ],
+        [
+          0,
+          30
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "BQ31_500_043068.jp2",
+  "imageData": null,
+  "imageHeight": 4800,
+  "imageWidth": 3200
+}

@@ -1,0 +1,9 @@
+*
+!*/
+!*.*
+.idea
+images
+*.npy
+*.zip
+*.pdf
+__pycache__

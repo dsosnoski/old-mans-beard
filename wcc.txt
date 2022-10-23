@@ -1,0 +1,20 @@
+
+
+Using (FN + FP) / (2*TP + 1):
+tp is [23. 56.  7.  0.], fp is [1. 6. 1. 0.], fn is [14. 11. 10.  0.], multiplier is [0.5        0.5        0.73333335 0.5       ]
+2/3 [===================>..........] - ETA: 0s - loss: 0.1064 - accuracy: 0.9624 - binary_crossentropy: 0.1044 - precision: 0.8387 - recall: 0.7143
+tp is [ 2. 10.  0.  0.], fp is [0. 8. 0. 0.], fn is [11.  0.  0.  0.], multiplier is [2.  0.5 0.5 0.5]
+
+Maximize loss when FN higher than FP, minimize when FN less than FP - use the ratio?
+Minimize when FP / FN both zero
+
+Using (FN + FP) / (2*FP + 1):
+tp is [18. 10.  0.  8.], fp is [15.  7.  0.  3.], fn is [1. 8. 0. 2.], multiplier is [0.516129   1.         0.5        0.71428573]
+1/2 [==============>...............] - ETA: 0s - loss: 0.1107 - accuracy: 0.9648 - binary_crossentropy: 0.0904 - precision_2: 0.5902 - recall_2: 0.7660
+tp is [ 0.  0.  0. 32.], fp is [0. 4. 0. 9.], fn is [0. 0. 0. 7.], multiplier is [0.5        0.5        0.5        0.84210527]
+2/2 [==============================] - ETA: 0s - loss: 0.1070 - accuracy: 0.9727 - binary_crossentropy: 0.0806 - precision_2: 0.6415 - recall_2: 0.7907
+generated batch with labeled pixel counts [239  22]
+
+tp is [0. 0.], fp is [0. 0.], fn is [239.  22.], multiplier is [2. 2.]
+2/2 [==============================] - 1s 1s/step - loss: 0.1070 - accuracy: 0.9727 - binary_crossentropy: 0.0806 - precision_2: 0.6415 - recall_2: 0.7907 - val_loss: 0.0953 - val_accuracy: 0.9967 - val_binary_crossentropy: 0.0198 - val_precision_2: 0.0000e+00 - val_recall_2: 0.0000e+00
+

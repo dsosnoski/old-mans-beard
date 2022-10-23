@@ -1,0 +1,250 @@
+{
+  "version": "4.6.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          685.0,
+          2515.0
+        ],
+        [
+          1180.0,
+          3680.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          1190.0,
+          2525.0
+        ],
+        [
+          1545.0,
+          3340.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          1425.0,
+          2505.0
+        ],
+        [
+          2125.0,
+          2150.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          845.0,
+          745.0
+        ],
+        [
+          1835.0,
+          1430.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          2205.0,
+          510.0
+        ],
+        [
+          3199.0,
+          0.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          160.0,
+          5.0
+        ],
+        [
+          485.0,
+          1620.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          965.0,
+          415.0
+        ],
+        [
+          1251.0,
+          0.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          3195.0,
+          2155.0
+        ],
+        [
+          2529,
+          4799
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          2525.0,
+          2715.0
+        ],
+        [
+          2386,
+          4799
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          2370.0,
+          3165.0
+        ],
+        [
+          2202,
+          4799
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          2195.0,
+          3475.0
+        ],
+        [
+          1992,
+          4799
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          1980.0,
+          3705.0
+        ],
+        [
+          1689,
+          4799
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          1680.0,
+          3905.0
+        ],
+        [
+          1393,
+          4799
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          1390.0,
+          4305.0
+        ],
+        [
+          963,
+          4799
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          680.0,
+          2935.0
+        ],
+        [
+          355.0,
+          4210.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "BQ31_500_043067.jp2",
+  "imageData": null,
+  "imageHeight": 4800,
+  "imageWidth": 3200
+}

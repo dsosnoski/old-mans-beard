@@ -1,0 +1,90 @@
+{
+  "version": "4.6.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          1606.2105263157896,
+          5.89473684210526
+        ],
+        [
+          3199,
+          708
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          3100.9473684210525,
+          1042.7368421052631
+        ],
+        [
+          437.7894736842104,
+          2069.0526315789475
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          990.4210526315787,
+          763.7894736842105
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          2258.842105263158,
+          2095.3684210526317
+        ],
+        [
+          458.8421052631579,
+          3869.0526315789475
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          464.1052631578948,
+          3911.157894736842
+        ],
+        [
+          1448.3157894736842,
+          4716.421052631579
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "BQ31_500_041064.jp2",
+  "imageData": null,
+  "imageHeight": 4800,
+  "imageWidth": 3200
+}

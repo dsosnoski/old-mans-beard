@@ -1,0 +1,58 @@
+{
+  "version": "4.6.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          1215.0,
+          4799.0
+        ],
+        [
+          3188,
+          0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          1015.0,
+          15.0
+        ],
+        [
+          0,
+          1189
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          0.0,
+          1230.0
+        ],
+        [
+          1207,
+          4799
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "BQ31_500_042068.jp2",
+  "imageData": null,
+  "imageHeight": 4800,
+  "imageWidth": 3200
+}

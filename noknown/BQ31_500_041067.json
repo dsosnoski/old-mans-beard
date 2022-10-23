@@ -1,0 +1,90 @@
+{
+  "version": "4.6.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          3195.0,
+          2710.0
+        ],
+        [
+          0,
+          5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          3195.0,
+          3370.0
+        ],
+        [
+          2265,
+          4799
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          2215.0,
+          3870.0
+        ],
+        [
+          0,
+          2712
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          975.0,
+          3910.0
+        ],
+        [
+          11,
+          4799
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "No known OMB",
+      "points": [
+        [
+          2250.0,
+          4285.0
+        ],
+        [
+          1280.0,
+          3940.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "BQ31_500_041067.jp2",
+  "imageData": null,
+  "imageHeight": 4800,
+  "imageWidth": 3200
+}
